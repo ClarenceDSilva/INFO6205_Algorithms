@@ -6,7 +6,7 @@ public class Question2 {
 
 public static void main(String[] args) {
 		
-		User user1 = new User("Lucy", 1, new Date("05/05/1986"));
+		User user1 = new User("Jake", 1, new Date("05/05/1986"));
 		User user2 = new User("Jake", 1, new Date("05/05/1986"));
 		User user3 = new User("Dane", 2, new Date("12/26/1998"));
 		
